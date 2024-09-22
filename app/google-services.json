@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18527847208",
+    "project_id": "wheelswakeai",
+    "storage_bucket": "wheelswakeai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18527847208:android:4d7b9b95fc48b804e8461d",
+        "android_client_info": {
+          "package_name": "com.example.wheelswakeai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1qCY76dMp_NBjMWNYq2knnn_30F1KXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
